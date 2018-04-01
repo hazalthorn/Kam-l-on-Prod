@@ -1,0 +1,100 @@
+.hotspot-body{
+	background-color:#ededed;
+	width:100%;
+	overflow:hidden;
+}
+h1.hotspot{
+	font-family: 'AllerLightRegular';
+	font-size:21px;
+	color:#000000;
+	text-align:left;
+}
+h2.hotspot{
+	font-family: 'AllerLightRegular';
+	font-size:13px;
+	color:#000000;
+	text-align:left;
+}
+p.hotspot{
+	font-family: 'AllerLightRegular';
+	font-size:12px;
+	color:#000000;
+	text-align:justify;
+}
+.col1 {
+    float:left;
+    width:45%;
+}
+.col2 {
+    float:left;
+    width:45%;
+    padding:0 10px;
+    margin-left:25px;
+}
+.hotspot-wraper{	
+	position:relative;
+	float:left;	
+	padding:10px 30px;
+	overflow:hidden;
+}
+p.info{
+	font-size:13px;	
+	font-family:Calibri, Arial, Helvetica, sans-serif;
+	color:#ffffff;
+}
+
+#objet{
+	margin:0 0;
+	border:none;
+}
+#objet h3 span{
+	color:#FF3232;
+}
+#objet h1{
+	font-family: 'NovecentowideBookBold';
+	font-size:26px;
+	color:#fff;
+	position:relative;
+}
+#objet h1.large{
+	font-size:42px;
+}
+#objet h1.smaller{
+	font-size:24px;
+}
+
+#objet h1 span{
+	color:#FF3232;
+}
+
+#objet h2{
+	font-family: 'AllerLightRegular';
+	font-size:15px;
+	color:#FF3232;
+}
+
+#objet h3{
+	font-family: 'AllerLightRegular';
+	font-size:13px;
+	color:#ffffff;
+	text-align:left;
+	padding:0px 3px;
+}
+
+#objet p{
+	font-family: 'AllerRegular';
+	font-size:13px;
+	color:#C4C4C4;
+	padding:0px 3px;
+	padding-bottom:3px;
+	text-align:center;
+}
+
+#objet p a, li a{
+	text-decoration:underline;
+	color:#ffffff;	
+}
+
+#objet p a:hover, li a:hover{
+	color:#FF3430;
+}

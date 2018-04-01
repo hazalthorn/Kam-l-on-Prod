@@ -1,0 +1,34 @@
+autorun.inf|45
+config_Tilleul de Ray.bin|35184
+images_Tilleul de Ray.zip|91016
+map\resources\movieclose.swf|2695
+map\resources\tilleul de ray_logo fond.jpg|75818
+map\resources\resources_Tilleul de Ray.zip|17607
+map\resources\scene\1_chambre tilleul haut.jpg|2062701
+map\resources\scene\1_chambre tilleul haut.zip|34741
+map\resources\scene\accueil.jpg|1992887
+map\resources\scene\accueil.zip|28447
+map\resources\scene\chambre boton d'or haut.jpg|1857980
+map\resources\scene\chambre boton d'or haut.zip|34574
+map\resources\scene\chambre bouton d'or bas.jpg|1852761
+map\resources\scene\chambre bouton d'or bas.zip|29009
+map\resources\scene\chambre coquelicot.jpg|1890658
+map\resources\scene\chambre coquelicot.zip|18530
+map\resources\scene\chambre tilleul bas.jpg|1953699
+map\resources\scene\chambre tilleul bas.zip|29041
+map\resources\scene\chambre vanille.jpg|1693775
+map\resources\scene\chambre vanille.zip|23163
+map\resources\scene\image66.jpg|1995006
+map\resources\scene\salle de bain bouton d'or.jpg|1559582
+map\resources\scene\salle de bain bouton d'or.zip|4921
+map\resources\scene\salle de bain vanille.jpg|1614059
+map\resources\scene\salle de bain vanille.zip|4680
+map\resources\scene\salle de bains tilleul.jpg|1578205
+map\resources\scene\salle de bains tilleul.zip|4651
+map\resources\scene\salle de conference.jpg|1866212
+map\resources\scene\salle de conference.zip|4408
+map\resources\scene\salon -salle à manger.zip|4365
+map\resources\scene\sounds\swfobject.js|6880
+map\resources\scene\sounds\Tilleul de Ray.html|1244
+map\resources\scene\sounds\TourWeaver_Tilleul de Ray.html|1651
+map\resources\scene\sounds\twviewer.swf|295541
